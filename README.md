@@ -1,2 +1,4 @@
 # hello-world
-just to try to the tutorial
+trying the tutorial
+
+learning more and more about GitHub
